@@ -1,4 +1,4 @@
-# Tournament Registration App
+# haosfrankieschess
 
 Aplikacja React do rejestracji w turniejach na żywo z integracją Supabase.
 
@@ -56,4 +56,4 @@ src/
 2. Implementacja formularzy i walidacji
 3. Dodanie stylów (CSS/Styled Components)
 4. Implementacja logiki biznesowej
-5. Testy 
+5. Testy
